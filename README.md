@@ -1,0 +1,29 @@
+# beecrowd
+JavaScript
+<h1 align="center">beecrowd / URI 🐝</h1>
+
+<br />
+
+<p align="center">
+  <img src="![image](https://github.com/Andrezapsilva/beecrowd/assets/140206807/921de066-162f-4fd4-b4df-51b4fa978eca)" />
+</p>
+
+<p align="center">Soluções de alguns exercícios da plataforma 
+    <a href="https://www.beecrowd.com.br/">beecrowd</a>
+    (antigo URI)
+</p>
+
+<br />
+
+Isenção de responsabilidade
+
+Os códigos disponíveis neste repositório são provenientes ao meu aprendizado em JavaScript. Gostaria de ressaltar que eles não representam as melhores práticas ou abordagens corretas de programação.
+Eles são disponibilizados aqui apenas para fins acadêmicos e de estudo pessoal.
+Recomenda-se que você não utilize esses códigos como referência para projetos ou aplicações profissionais. 
+Caso esteja procurando exemplos de código atualizados e melhores práticas de programação, sugiro buscar outras fontes confiáveis.
+Minha metodologia de programação evolui a cada dia e adotei abordagens mais eficientes, e alinhadas com as melhores práticas da indústria.
+
+Se você tiver alguma dúvida ou precisar de exemplos mais atualizados, sinta-se à vontade para entrar em contato.
+
+Atenciosamente,
+Andreza ♥
